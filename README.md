@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building **my website** https://amitsarkar.tech
+- 🌱 I’m currently learning **Taiko** browser automation tool
+- 👯 I’m looking to collaborate on **testing** projects
+- 🤔 I’m looking for help with finding my **next testing opportunity**
+- 💬 Ask me about **software testing**
+- 📫 **How to reach me:** Check my website for contact details
+- ⚡ **Fun fact:** I have done the World Naked Bike ride in London, UK
