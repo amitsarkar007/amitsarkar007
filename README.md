@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building **my website** https://amitsarkar.tech
+- 🔭 I’m currently working on **my website** https://amitsarkar.tech and testing **UiPath** Robots
 - 🌱 I’m currently learning **Taiko** browser automation tool
 - 👯 I’m looking to collaborate on **testing** projects
 - 🤔 I’m looking for help with finding my **next testing opportunity**
