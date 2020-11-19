@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **my website** https://amitsarkar.tech and testing **UiPath** Robots
+- 🔭 I’m Amit Sarkar. Learn more about me at https://amitsarkar.tech
 - 🌱 I’m currently learning **Taiko** browser automation tool
-- 👯 I’m looking to collaborate on **testing** projects
-- 🤔 I’m looking for help with finding my **next testing opportunity**
+- 🎙️ I've recently started a podcast at https://techtalk.captivate.fm/listen
+- 👯 I’m always looking to collaborate on **testing** projects
+- 🎞️ I also post tech videos on my youtube channel at https://www.youtube.com/channel/UCHNkNben7JZy2xeLNNS9w6A
 - 💬 Ask me about **software testing**
 - 📫 **How to reach me:** Check my website for contact details
 - ⚡ **Fun fact:** I have done the World Naked Bike ride in London, UK
