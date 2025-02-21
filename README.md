@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m Amit Sarkar. Learn more about me at https://linktr.ee/amit.sarkar007
-- 🌱 I’m currently learning **Backend Web Development**
-- 🎙️ I've recently started a podcast at https://techtalk.captivate.fm/listen
-- 👯 I’m always looking to collaborate on **testing** projects
-- 🎞️ I also post tech videos on my youtube channel at https://www.youtube.com/channel/UCHNkNben7JZy2xeLNNS9w6A
-- 💬 Ask me about **software testing**
+- 🔭 I’m Amit Sarkar. Learn more about me at https://amitsarkar.tech
+- 🌱 I’m currently learning **AI tools and how to create a chatbot**
+- 🎙️ I've a podcast at https://techtalk.captivate.fm/listen
+- 📰 I've a newsletter at https://amitsarkar.beehiiv.com/
+- 👯 I’m always looking to collaborate on **technology** projects
+- 🎞️ I also post tech videos on my youtube channel at https://youtube.com/@amitsarkar007?sub_confirmation=1
+- 💬 Ask me about **software testing, AI tools, chatbot**
 - 📫 **How to reach me:** Please check my website for contact details
 - ⚡ **Fun fact:** I have done the World Naked Bike ride in London, UK
