@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m Amit Sarkar. Learn more about me at https://amitsarkar.tech
-- 🌱 I’m currently learning **AI tools and how to create a chatbot**
+- 🌱 I’m currently learning **different AI tools and vibe coding**
 - 🎙️ I've a podcast at https://techtalk.captivate.fm/listen
 - 📰 I've a newsletter at https://amitsarkar.beehiiv.com/
 - 👯 I’m always looking to collaborate on **technology** projects
 - 🎞️ I also post tech videos on my youtube channel at https://youtube.com/@amitsarkar007?sub_confirmation=1
-- 💬 Ask me about **software testing, AI tools, chatbot**
+- 💬 Ask me about **software testing, AI tools, chatbot, Vibe coding, Cursor, RAG**
 - 📫 **How to reach me:** Please check my website for contact details
 - ⚡ **Fun fact:** I have done the World Naked Bike ride in London, UK
