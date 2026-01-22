@@ -1,26 +1,66 @@
 ### Hi there 👋
 
-<!--
-**amitsarkar007/amitsarkar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amit Sarkar** | Quality Engineering Leader & Tech Enthusiast
 
-Here are some ideas to get you started:
+19+ years of quality engineering experience. Leading teams, building automation, and sharing insights on AI, testing, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Learn more:** [amitsarkar.tech](https://amitsarkar.tech)
 
-- 🔭 I’m Amit Sarkar. Learn more about me at https://amitsarkar.tech
-- 🌱 I’m currently learning **different AI tools and vibe coding**
-- 🎙️ I've a podcast at https://techtalk.captivate.fm/listen
-- 📰 I've a newsletter at https://amitsarkar.beehiiv.com/
-- 👯 I’m always looking to collaborate on **technology** projects
-- 🎞️ I also post tech videos on my youtube channel at https://youtube.com/@amitsarkar007?sub_confirmation=1
-- 💬 Ask me about **software testing, AI tools, chatbot, Vibe coding, Cursor, RAG**
-- 📫 **How to reach me:** Please check my website for contact details
-- ⚡ **Fun fact:** I have done the World Naked Bike ride in London, UK
+---
+
+## 👨‍💼 About Me
+
+- 🔭 **Quality Engineering Leader** with 19+ years of experience leading QA teams across multiple industries
+- 🌱 Currently working on multiple projects using **AI tools and vibe coding**
+- 🌏 Proven track record of **global team management** (offshore and onshore)
+- 📋 Expert in **test strategy & planning** for complex software projects
+- 💡 Passionate about **continuous improvement** and discovering new testing techniques
+
+---
+
+## 🎙️ Thought Leadership
+
+- **Podcast Co-host:** [Tech Talk with Amit & Rinat](https://techtalk.captivate.fm/listen) - Discussing AI, software development, testing, and emerging technologies
+  - Available on [Spotify](https://open.spotify.com/show/your-show), [YouTube](https://youtube.com/@amitsarkar007?sub_confirmation=1), [Apple Podcasts](https://podcasts.apple.com/your-show), [Amazon Music](https://music.amazon.com/your-show)
+- **Newsletter Writer:** [A Life Ordinary](https://amitsarkar.beehiiv.com/) - Sharing personal stories, tech insights, and updates
+- **Public Speaker:** Presented at BBC Tech Meetup, Agile Test Automation Vienna, and more
+- **Content Creator:** Tech videos on [YouTube](https://youtube.com/@amitsarkar007?sub_confirmation=1)
+
+---
+
+## 🚀 Featured Projects
+
+- **AI Nexus** - AI tools directory built with Python, 
+ChatGPT, and Tailwind CSS
+- **Keep Bromley Green** - Community-focused environmental project
+- **XKCDTok** - TikTok-style interface for browsing XKCD comics
+- **Charlotte Charles Beauty** - Website for a beauty salon
+- **Sidona Green** - Website for an ESG consultant
+- **foodGully** - Order management platform for local chefs
+- **Investa** - Investment options platform for UK asset classes
+
+---
+
+## 💬 Ask Me About
+
+**Software testing, AI tools, chatbots, Vibe coding, Cursor, RAG**, quality engineering, test automation, team leadership, and technology trends.
+
+---
+
+## 🤝 Collaboration
+
+Always looking to collaborate on **technology projects**, especially those involving:
+- Quality engineering and test automation
+- AI tools and applications
+- Open source contributions
+- Tech content creation
+
+---
+
+For business inquiries and contact details, please visit [amitsarkar.tech](https://amitsarkar.tech)
+
+---
+
+## ⚡ Fun Fact
+
+I have done the World Naked Bike ride in London, UK 🚴‍♂️
