@@ -1,4 +1,4 @@
-# Hi there 👋 Amit Sarkar | Quality Engineering Leader & Tech Enthusiast
+# Hi there 👋 I am Amit Sarkar | Quality Engineering Leader & AI Consultant
 
 19+ years of quality engineering experience. Leading teams, building automation, and sharing insights on AI, testing, and technology.
 
